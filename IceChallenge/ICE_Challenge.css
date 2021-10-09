@@ -1,0 +1,61 @@
+/*header*/
+h1, p{
+    text-align: center;
+    
+}
+h1{
+    font-size: 50px;
+    color:white;
+    
+}
+h1:hover{
+    font-size: 50px;
+    color:black;
+    
+}
+
+/*background*/
+body{
+    background-color: pink;
+    text-align: center
+    ;
+}
+
+/*Education*/
+div.para-box1{
+    color:white;
+    text-align: center;
+}
+
+/*list*/
+div.para-list{
+
+    text-align: left;
+}
+
+
+
+/*Quote*/
+div.para-box2{
+    color:white;
+    font-size: 50px;
+    text-align: center;
+    text-align: justify;
+}
+
+/*image*/
+img {
+    width: 400px;
+    
+}
+#image-box {
+    /*width: 100px;*/
+    text-align: center;
+}
+
+
+div.para-ref{
+    text-align:center;
+}
+
+

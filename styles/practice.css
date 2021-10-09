@@ -1,0 +1,28 @@
+* {
+    border: 5px solid red;
+}
+img { 
+    width: 45%;
+    max-width: 100%;
+    border: 5px solid black;
+    
+}
+h1, p {
+    border: 5px solid black;
+    text-align: center;
+}
+#image-box {
+        text-align: center;
+}
+p {
+    font-size: 3em;
+}
+.para-box{
+    font-size: 12px;
+}
+div p {
+    font-style: chocolate;
+}
+div p:hover {
+    background-color: blueviolet;
+}
