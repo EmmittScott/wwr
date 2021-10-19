@@ -19,7 +19,7 @@ nav a {
 
 }
 img.logo{
-    width: 5%;
+    width: 80px;
     padding: 15px 30px;
     margin-top: 50px;
 }
@@ -42,6 +42,16 @@ h1.home-title{
     color: #e2df08;
     font-size: 3em;
 }
+
+#background {
+    height: 725px;
+    background-color: #31a9b9;
+}
+
+img.mountains{
+    text-align: left;
+}
+
 nav a.book{
     text-decoration: none;
     color: #e2df08;
