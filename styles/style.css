@@ -27,6 +27,8 @@ body{
     text-align: center;
     font-family: 'Signika Negative';
     font-size: 20px;
+    margin: 0;
+    padding: 0;
 }
 
 img.hero-img{
