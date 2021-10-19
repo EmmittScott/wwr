@@ -1,20 +1,32 @@
 
 /**/
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
+
+
 header{
-    background-color: #4c8577;
+    background-color: #09b8b8;
     text-align: left; 
     color: white;  
+    font-family: 'Stick No Bills';
+    padding: 0px 0px;
+    margin-top: 0px;
 }
 nav a {
     color: white;
     text-decoration: none;
+    padding: 30px;
+
 }
 img.logo{
     width: 5%;
+    padding: 15px 30px;
+    margin-top: 50px;
 }
 body{
     text-align: center;
-   
+    font-family: 'Signika Negative';
+    font-size: 20px;
 }
 
 img.hero-img{
@@ -22,6 +34,11 @@ img.hero-img{
 }
 #hero-img{
     width:100%;
+}
+h1.home-title{
+    font-family: 'Stick No Bills';
+    color: #e2df08;
+    font-size: 3em;
 }
 nav a.book{
     text-decoration: none;
@@ -31,6 +48,16 @@ nav a.book{
     background-color: #12c1d8;
     color: black;
     text-decoration: none;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+    }
+
+    .card-img {
+        border: 10px solid #4c8577;
+    }
+    main section img {
+        box-sizing: border-box;
     }
 
 .book:hover, .join:hover {
