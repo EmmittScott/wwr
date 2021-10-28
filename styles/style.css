@@ -24,16 +24,20 @@ header{
 nav{
     display: flex;
     justify-content: space-around;
-    
+    align-items: center;
 
 }
 nav a {
     color: white;
     text-decoration: none;
     padding: 30px;
-    padding-top: 5px;
+    padding-top: 30px;
     
 
+}
+
+nav a:hover{
+    color: black;
 }
 img.logo{
     width: 80px;
@@ -87,6 +91,7 @@ h1.home-title{
 
 .home-grid{
     display: grid;
+    grid-template-columns: repeat(10, 1fr);
 }
 
 .card-img, .mountain {
