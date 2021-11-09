@@ -196,9 +196,14 @@ nav a.join{
     text-decoration: none;
     color: white;
 }
+
 footer a{
     text-decoration: none;
     color: white;
+}
+footer a:hover{
+    text-decoration: none;
+    color: black;
 }
 footer{
     padding: 25px 50px;
