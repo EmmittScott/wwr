@@ -185,7 +185,7 @@ nav a.book{
 /*End Mountain Text*/
 
 #social a{
-
+    text-decoration: none;
 }
 /*Start Footer*/
 section.msg{
@@ -228,7 +228,7 @@ footer{
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: 40px;
     letter-spacing: 3px;
-    color: #6f7364;
+    color: #4c8577;
     margin: 100px 0;
     border-top: 5px double;
     border-bottom: 5px double;
@@ -251,14 +251,14 @@ footer{
     grid-column: 5/8;
     grid-row: 6/9;
     width: 100%;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px #4c8577;
 }
 .river2-text {
     grid-column: 3/6;
     grid-row: 7/8;
 }
 .river1-text, .river2-text {
-    background-color: #d9c2a3;
+    background-color: #4c8577;
     overflow: scroll; /* ADDED */
     height: auto; /* ADDED */
     height: 250px;
